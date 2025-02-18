@@ -1,3 +1,4 @@
+<img src="imgs/florence2.png"> 
 # Environment
 ```shell
 single RTX 3090
@@ -15,6 +16,7 @@ huggingface-cli download HuggingFaceM4/DocumentVQA --local-dir ./data
 git clone https://huggingface.co/datasets/HuggingFaceM4/DocumentVQA
 git clone git@hf.co:datasets/HuggingFaceM4/DocumentVQA
 ```
+<img src="imgs/data.png"> 
 # Model
 ```shell
 https://huggingface.co/microsoft/Florence-2-base
