@@ -1,0 +1,14 @@
+torch 
+torchvision 
+torchaudio
+transformers
+peft 
+tqdm 
+Levenshtein
+pandas 
+numpy
+einops 
+timm
+Pillow 
+supervision
+datasets
